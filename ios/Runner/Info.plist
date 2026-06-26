@@ -30,6 +30,8 @@
 	<false/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>PaperPilot PDF uses the camera to scan paper documents and create PDF files.</string>
 	<key>SKAdNetworkItems</key>
 	<array>
 		<dict>
